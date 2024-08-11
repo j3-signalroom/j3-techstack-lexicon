@@ -6,6 +6,9 @@
 ## [Apache Iceberg Glossary](./apache-iceberg-glossary.md)
 > _Apache Iceberg is an open-source high-performance format for huge analytic tables. Iceberg enables the use of SQL tables for big data while making it possible for engines like Spark, Trino, Flink, Presto, Hive, Impala, StarRocks, Doris, and Pig to safely work with the same tables, at the same time._
 
+## [Docker Glossary](./docker-glossary.md)
+> _Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers._
+
 ## [GitHub Glossary](./github-glossary.md)
 > _GitHub (Microsoft acquired in 2018) is a developer platform that allows developers to create, store, manage and share their code.  It uses Git software, providing the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project._
 
