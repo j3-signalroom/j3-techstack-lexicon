@@ -8,6 +8,3 @@ HCP Terraform Workspaces represent all of the collections of infrastructure in a
 
 ## Organizations
 Organizations are a shared space for one or more teams to collaborate on workspaces.
-
-## Terraform
-Terraform is an infrastructure as code tool that lets you define and manage infrastructure resources through human-readable configuration files.  Terraform allows you to use a consistent workflow over your infrastructure lifecycle, regardless of the resource provider.  The infrastructure as code workflow lets your declaratively manage a variety of services and automate your changes to them, reducing the risk of human error through manual operations.
