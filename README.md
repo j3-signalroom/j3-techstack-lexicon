@@ -6,6 +6,9 @@
 ## [Apache Iceberg Glossary](./apache-iceberg-glossary.md)
 > _Apache Iceberg is an open-source high-performance format for huge analytic tables. Iceberg enables the use of SQL tables for big data while making it possible for engines like Spark, Trino, Flink, Presto, Hive, Impala, StarRocks, Doris, and Pig to safely work with the same tables, at the same time._
 
+## [Crytographic Glossary](./cryptographic-glossary.md)
+> _Cryptographic refers to anything related to cryptography, which is the science and practice of securing information and communications through the use of mathematical techniques.  Cryptography ensures that data is kept confidential, maintains its integrity, authenticates the identity of parties involved in communication, and ensures non-repudiation (i.e., that a party cannot deny the authenticity of their signature on a document or a message they sent)._
+
 ## [Docker Glossary](./docker-glossary.md)
 > _Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers._
 
