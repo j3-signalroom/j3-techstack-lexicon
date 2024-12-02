@@ -6,6 +6,9 @@
 ## [Apache Iceberg Glossary](./apache-iceberg-glossary.md)
 > _Apache Iceberg is an open-source high-performance format for huge analytic tables. Iceberg enables the use of SQL tables for big data while making it possible for engines like Spark, Trino, Flink, Presto, Hive, Impala, StarRocks, Doris, and Pig to safely work with the same tables, at the same time._
 
+## [Confluent Glossary](./confluent-glossary.md)
+> _Confluent is a fully managed, cloud-native event streaming platform powered by Apache Kafka.  Confluent provides a complete event streaming platform that enables you to create, manage, and deploy event streaming applications at scale with the ability to connect to multiple systems and data sources._
+
 ## [Crytographic Glossary](./cryptographic-glossary.md)
 > _Cryptographic refers to anything related to cryptography, which is the science and practice of securing information and communications through the use of mathematical techniques.  Cryptography ensures that data is kept confidential, maintains its integrity, authenticates the identity of parties involved in communication, and ensures non-repudiation (i.e., that a party cannot deny the authenticity of their signature on a document or a message they sent)._
 
