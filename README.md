@@ -13,7 +13,7 @@
 > _Cryptographic refers to anything related to cryptography, which is the science and practice of securing information and communications through the use of mathematical techniques.  Cryptography ensures that data is kept confidential, maintains its integrity, authenticates the identity of parties involved in communication, and ensures non-repudiation (i.e., that a party cannot deny the authenticity of their signature on a document or a message they sent)._
 
 ## [Data Mesh Glossary](./data-mesh-glossary.md)
-> _
+> _Data Mesh is a decentralized approach to data architecture that focuses on domain-oriented decentralization of data ownership and architecture.  It treats data as a product and applies product thinking to data management.  Data Mesh principles aim to address the challenges of traditional centralized data architectures by enabling domain teams to own the data they produce, while providing a self-serve platform for data infrastructure._
 
 ## [Docker Glossary](./docker-glossary.md)
 > _Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers._
