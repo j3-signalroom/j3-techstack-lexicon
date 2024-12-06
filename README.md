@@ -6,6 +6,9 @@
 ## [Apache Iceberg Glossary](./apache-iceberg-glossary.md)
 > _Apache Iceberg is an open-source high-performance format for huge analytic tables. Iceberg enables the use of SQL tables for big data while making it possible for engines like Spark, Trino, Flink, Presto, Hive, Impala, StarRocks, Doris, and Pig to safely work with the same tables, at the same time._
 
+## [Apache Kafka Glossary](./apache-kafka-glossary.md)
+> _Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.  Kafka is suitable for both offline and online message consumption.  Kafka is designed to allow a single cluster to serve as the central data backbone for a large organization._
+
 ## [Confluent Glossary](./confluent-glossary.md)
 > _Confluent is a fully managed, cloud-native event streaming platform powered by Apache Kafka.  Confluent provides a complete event streaming platform that enables you to create, manage, and deploy event streaming applications at scale with the ability to connect to multiple systems and data sources._
 
