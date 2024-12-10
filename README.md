@@ -27,6 +27,9 @@
 ## [GitHub Glossary](./github-glossary.md)
 > _GitHub (Microsoft acquired in 2018) is a developer platform that allows developers to create, store, manage and share their code.  It uses Git software, providing the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project._
 
+## [Java Glossary](./java-glossary.md)
+> _Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.  It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation._
+
 ## [Snowflake Glossary](./snowflake-glossary.md)
 > _Snowflake is a cloud-based data warehousing platform that allows companies to store and analyze large amounts of data using cloud-based hardware and software.  Snowflake is a data warehouse-as-a-service, which requires no management and features separate compute, storage, and cloud services that can scale and change independently._
 
