@@ -1,5 +1,8 @@
 # [J3's](https://linkedin.com/in/jeffreyjonathanjennings) techStack Lexicon
 
+## [AWS (Amazon Web Services) Glossary](./aws-glossary.md)
+> _Amazon Web Services (AWS) is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.  These cloud computing web services provide a variety of basic abstract technical infrastructure and distributed computing building blocks and tools._
+
 ## [Apache Flink Glossary](./apache-flink-glossary.md)
 > _Apache Flink is an open-source, unified stream-processing and batch-processing framework developed by the Apache Software Foundation.  The core of Apache Flink is a distributed streaming data-flow engine written in Java and Scala.  Flink executes arbitrary dataflow programs in a data-parallel and pipelined manner._
 
