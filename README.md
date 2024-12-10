@@ -24,5 +24,8 @@
 ## [GitHub Glossary](./github-glossary.md)
 > _GitHub (Microsoft acquired in 2018) is a developer platform that allows developers to create, store, manage and share their code.  It uses Git software, providing the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project._
 
+## [Snowflake Glossary](./snowflake-glossary.md)
+> _Snowflake is a cloud-based data warehousing platform that allows companies to store and analyze large amounts of data using cloud-based hardware and software.  Snowflake is a data warehouse-as-a-service, which requires no management and features separate compute, storage, and cloud services that can scale and change independently._
+
 ## [Terraform Glossary](./terraform-glossary.md)
 > _Terraform is an infrastructure as code tool that lets you define and manage infrastructure resources through human-readable configuration files.  Terraform allows you to use a consistent workflow over your infrastructure lifecycle, regardless of the resource provider.  The infrastructure as code workflow lets your declaratively manage a variety of services and automate your changes to them, reducing the risk of human error through manual operations._
